@@ -1,3 +1,6 @@
+# TEMPORARY FORK ONLY! NO UPDATES OR GUARANTEES.
+This for is specifically aimed at a temporary fix to deprecation warnings caused by react native / expo 45 updates. When this issue is resolved, switch to using the official lib https://github.com/meliorence/react-native-snap-carousel/issues/923.
+
 # react-native-snap-carousel
 
 ![platforms](https://img.shields.io/badge/platforms-Android%20%7C%20iOS-brightgreen.svg?style=flat-square&colorB=191A17)
